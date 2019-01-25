@@ -30,7 +30,7 @@ npm start
 
 This will make your application run on PORT 3000, if in use, on next available port.
 
-Happy Ordering ! ;)
+Happy Cheesing ! ;)
 
 ### Prerequisites
 
